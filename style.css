@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+.clm img{
+         width: 30%;
+         height: 40%;
+         float: left;
+         
+
+}
+.clm img{
+    width: 30%;
+    height: 40;
+    float:right;
+   
+
+}
